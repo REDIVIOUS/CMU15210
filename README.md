@@ -1,2 +1,3 @@
-# CMU15210
-HUST - Parall &amp; Sequential Data Sturctue &amp; Algorithm
+# UGP-HustLab-CMU15210
+[undergraduate coursework of hust] Labs of Parallel & Sequential Data Structure & Algorithm (cmu15210)
+
